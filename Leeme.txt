@@ -1,0 +1,9 @@
+Avances con respecto a la revision:
+
+Se agregaron los formularios web del administrador ( Mantenedores de Tipo(Actividades), Cliente y Destino) 
+para agregar, listar, Editar y eliminar.
+
+Links de volver para facilitar la navegacion entre paginas.
+
+Aun no se logra que funcione la conexion con la BD al momento de queres acceder o agregar nuevos datos,
+pero se esta trabajando en ello.
